@@ -1,0 +1,5 @@
+train: C:/CholecT50-Challenge-Validation/cholect50-challenge-val/images/train 
+val: C:/CholecT50-Challenge-Validation/cholect50-challenge-val/images/val
+nc: 2  # number of classes (set according to your dataset)
+names: ['Non-Infected','Infected']  # list of class names
+
